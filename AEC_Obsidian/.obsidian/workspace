@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "d97f29071f32c5d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae2923d220e17d86",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "08MAY22.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4a3e90c4f59b61e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8f3610426e7fe63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8bd78676680929c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0126128a4c7fbfa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4fdb33f1390a7b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd0d454078a67ad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac53ecd1c5411802",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08MAY22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0f611fee9da2d2f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ae2923d220e17d86",
+  "lastOpenFiles": [
+    "08MAY22.md",
+    "Home.md"
+  ]
+}
