@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "08MAY22.md",
+            "file": "Journal Entries/09MAY22.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227,
+    "collapsed": true
   },
   "right": {
     "id": "f4fdb33f1390a7b0",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08MAY22.md",
+                "file": "Journal Entries/09MAY22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,11 +93,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "ae2923d220e17d86",
   "lastOpenFiles": [
-    "08MAY22.md",
-    "Home.md"
+    "Journal Entries/09MAY22.md",
+    "Grid Marking Schedule.md",
+    "Home.md",
+    "Journal Entries/08MAY22.md"
   ]
 }
