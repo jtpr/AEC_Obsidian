@@ -1,5 +1,5 @@
 # Sidewalk 22 Changes
-This document tracks the necessary changes and their status on the AutoCAD files.
+This document tracks the necessary changes and their status on the AutoCAD files. m
 
 ## Numerical Changes
 - [ ] 1-49: Change SF to 3 panels of 6 LF x 7 LF = 126 SF from 96 SF
@@ -8,6 +8,7 @@ This document tracks the necessary changes and their status on the AutoCAD files
 - [ ] Remove 4-138 Numbers
 - [ ] Remove 4-124 Numbers
 - [ ] ?***Add 4-173 Rem & Replace***? 
+- [ ] Remove 5-100
 
 ## Drawing Changes
 - [ ] Remove 8-141 and 8-142 arrows
@@ -17,3 +18,5 @@ This document tracks the necessary changes and their status on the AutoCAD files
 - [ ] Remove 4-124 Arrow
 - [ ] ?***Add 4-173 Rem & Replace***? 
 - [ ] Remove 4-40 Arrow (Not in Table)
+- [ ] Remove 5-100 arrow
+- [ ] Change 10-260 arrow to a grind, not R&R

@@ -1,4 +1,17 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "paver",
+    "Dharmesh",
+    "didnt",
+    "Deliverables",
+    "Bursley"
+  ],
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "vimMode": false,
+  "attachmentFolderPath": "C:\\Users\\jtpr\\Documents\\GitHub\\AEC_Obsidian\\AEC_Obsidian\\Files"
 }
