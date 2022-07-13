@@ -1,0 +1,58 @@
+# ADA Training 2
+## Scope
+- Same as the last training. Assume everything should be accessible with small exceptions. 
+## Building Blocks
+- Dual Height Drinking fountain (602)
+	- One for standing
+	- One for Wheelchairs
+	- Bottle filling station must be within the reach range
+	- Clear floor space from a forward approach 
+- Plumbing elements and facilities (603)
+	- Accessories must be installed within reach range
+	- Toilets
+		- Turning space not inside the stall
+		- Door cannot swing into the clearance for any fixture
+		- ![[Pasted image 20220630125424.png]]
+	- Grab bars bith sides and vertical
+	- SHOW ALL DIMENSIONS IN THE PLANS
+	- ![[Pasted image 20220630125720.png]]
+	- UM requires 1 single occupancy gender inclusive restroom
+- 606 Sinks
+	- Pipes must be out of the way
+- 607 Bath tubs
+	- Clearance in front
+- 608 Showers
+	- Transfer and Roll-in type with grab bars
+- 612 Saunas need turning space. 
+- 703 Signs
+	- Tactile signs mounted on the latch side of the door
+	- ![[Pasted image 20220630131601.png]]
+	- Symbols
+		- Specific signage icons for restrooms (UM specific)
+	- Wayfinding is very importatnt
+- 705 Detectable Warnings
+	- Truncated domes
+	- Visual contast
+- 706 Assisted Listening
+	- Required in areas with 50 or more people
+	- Specific seats, devices or special systems
+- Chapter 8 Special Rooms and spaces
+	- 802 Assembly Areas (Stadiums)
+		- 36" x 60"
+		- Companion seat beside the space
+	- 804 Kitchens
+		- Clear Floor space in front of appienences
+		- Pas through of 40" ckear min
+	- 805 Transport Facilities must have clear space 
+	- 808 Classrooms
+		- Very specific reverberation and ambient sound level requirements 
+- Chapter 9 Furnishings and Equipment
+	- 28" min and 34" max
+	- 5% of seating should be shoulder to shoulder and have firm/stable accessible pathways
+- Chapter 10 
+	- Recreational facilities
+- Chapter 11 Dwelling and Sleeping Units
+	- Type A B and C units
+- Finishes
+	- Contrasting colors to show paths
+	- Firm, stable and slip resistant is what you want

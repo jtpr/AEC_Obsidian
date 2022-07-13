@@ -4,13 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "be9c564c08e2c33d",
+        "id": "e604a34fa2460e7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "22JUNE22.md",
-            "mode": "source"
+            "file": "13JULY22.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d03a19ebf67b6e96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "12JULY22.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1e04801f67f22ebb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "11JULY22.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -39,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "17",
+                "query": "MLB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,11 +73,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 227,
+    "width": 388,
     "collapsed": true
   },
   "right": {
@@ -69,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22JUNE22.md",
+                "file": "13JULY22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,25 +114,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "be9c564c08e2c33d",
+  "active": "e604a34fa2460e7d",
   "lastOpenFiles": [
-    "22JUNE22.md",
-    "21JUNE22.md",
-    "Home.md",
-    "ADA Training 1.md",
-    "20JUNE22.md",
+    "12JULY22.md",
+    "13JULY22.md",
+    "11JULY22.md",
     "13JUNE22.md",
-    "16JUNE22.md",
-    "17JUNE22.md",
-    "Journal Entries/13MAY22.md",
-    "14JUNE22.md"
+    "Home.md",
+    "Journal Entries/11MAY22.md",
+    "Journal Entries/10MAY22.md",
+    "Journal Entries/09MAY22.md",
+    "8JULY22.md",
+    "7JULY22.md"
   ]
 }
