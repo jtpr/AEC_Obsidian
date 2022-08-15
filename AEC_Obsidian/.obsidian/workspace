@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e604a34fa2460e7d",
+        "id": "a3f5db1f6ee783f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "13JULY22.md",
+            "file": "10AUG22.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "d03a19ebf67b6e96",
+        "id": "c1acfe0a866f9350",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "12JULY22.md",
-            "mode": "preview",
+            "file": "15AUG22.md",
+            "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "1e04801f67f22ebb",
+        "id": "9573b3cc8e120e15",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11JULY22.md",
-            "mode": "preview",
+            "file": "11AUG22.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13JULY22.md",
+                "file": "15AUG22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e604a34fa2460e7d",
+  "active": "c1acfe0a866f9350",
   "lastOpenFiles": [
-    "12JULY22.md",
-    "13JULY22.md",
-    "11JULY22.md",
-    "13JUNE22.md",
-    "Home.md",
-    "Journal Entries/11MAY22.md",
-    "Journal Entries/10MAY22.md",
+    "Journal Entries/9AUG22.md",
+    "11AUG22.md",
+    "10AUG22.md",
     "Journal Entries/09MAY22.md",
-    "8JULY22.md",
-    "7JULY22.md"
+    "Journal Entries/11MAY22.md",
+    "Journal Entries/8AUG22.md",
+    "Journal Entries/3AUG22.md",
+    "Journal Entries/9JUNE22.md",
+    "Journal Entries/2AUG22.md",
+    "Home.md"
   ]
 }
