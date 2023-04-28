@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "d97f29071f32c5d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf75438e12f6132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53ff4c8d03380855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sidewalk 23 Review Questions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4a3e90c4f59b61e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8f3610426e7fe63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8bd78676680929c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0126128a4c7fbfa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f4fdb33f1390a7b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd0d454078a67ad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac53ecd1c5411802",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sidewalk 23 Review Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0f611fee9da2d2f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "53ff4c8d03380855",
+  "lastOpenFiles": [
+    "Pasted image 20230428132419.png",
+    "Pasted image 20230428132149.png",
+    "Pasted image 20230428132128.png",
+    "Pasted image 20230428132051.png",
+    "Pasted image 20230428132021.png",
+    "Sidewalk 23 Review Questions.md",
+    "Pasted image 20230428132008.png",
+    "28APR23.md",
+    "Home.md",
+    "1MAY23.md",
+    "Sidewalk 23 Program.md",
+    "27APR23.md",
+    "homer.md",
+    "NW54 SESC Plan.md",
+    "25APR23.md",
+    "10MAR23.md",
+    "17APR23.md",
+    "20APR23.md",
+    "Journal Entries/17MAY22.md",
+    "Journal Entries/18MAY22.md",
+    "Journal Entries/19MAY22.md",
+    "Journal Entries/20JULY22.md",
+    "Journal Entries/20MAY22.md",
+    "Journal Entries/6JUNE22.md",
+    "SESC Plan.md",
+    "AECtion Notes.md",
+    "6APR23.md",
+    "17.md",
+    "Journal Entries/26JULY22.md",
+    "13APR23.md",
+    "7APR23.md",
+    "Files/University of Michigan Mail - P17748 Bidpack 2 Budget.pdf",
+    "Files/Pasted image 20230202163517.png",
+    "Files/Pasted image 20230109144421.png",
+    "Files/Pasted image 20220630131601.png",
+    "Files/Pasted image 20220621153014.png",
+    "Files/Pasted image 20220621150809.png",
+    "Files/Fire Apparatus Access Roads.pdf",
+    "Untitled.canvas"
+  ]
+}

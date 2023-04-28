@@ -13,5 +13,11 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "vimMode": false,
-  "attachmentFolderPath": "C:\\Users\\jtpr\\Documents\\GitHub\\AEC_Obsidian\\AEC_Obsidian\\Files"
+  "attachmentFolderPath": "C:\\Users\\jtpr\\Documents\\GitHub\\AEC_Obsidian\\AEC_Obsidian\\Files",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
