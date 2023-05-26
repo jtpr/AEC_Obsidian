@@ -4,18 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "adf75438e12f6132",
+        "id": "70558658905b800f",
         "type": "tabs",
         "children": [
           {
-            "id": "53ff4c8d03380855",
+            "id": "cbbd2b0503f2d72f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sidewalk 23 Review Questions.md",
-                "mode": "preview",
+                "file": "26MAY23.md",
+                "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "69ca8833765d315a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25MAY23.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -56,6 +68,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "515dfcf036d188a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -79,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sidewalk 23 Review Questions.md",
+                "file": "26MAY23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,46 +136,47 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "53ff4c8d03380855",
+  "active": "cbbd2b0503f2d72f",
   "lastOpenFiles": [
+    "25MAY23.md",
+    "26MAY23.md",
+    "Home.md",
+    "19MAY23.md",
+    "23MAY23.md",
+    "24MAY23.md",
+    "Journal Entries/25MAY22.md",
+    "Journal Entries/23MAY22.md",
+    "22MAY23.md",
+    "Pasted image 20230519094241.png",
+    "17MAY23.md",
+    "18MAY23.md",
+    "16MAY23.md",
+    "27APR23.md",
+    "09MAY23.md",
+    "15MAY23.md",
+    "Journal Entries/17MAY22.md",
+    "Journal Entries/17JUNE22.md",
+    "Journal Entries/29JUNE22.md",
+    "Journal Entries/15JUNE22.md",
+    "ADA Training 2.md",
+    "Journal Entries/09MAY22.md",
+    "ADA Training 1.md",
+    "10MAY23.md",
+    "Journal Entries/10MAY22.md",
+    "02May23.md",
+    "SESC Plan.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Pasted image 20230501080658.png",
+    "Pasted image 20230501080634.png",
+    "Pasted image 20230501080609.png",
     "Pasted image 20230428132419.png",
     "Pasted image 20230428132149.png",
     "Pasted image 20230428132128.png",
     "Pasted image 20230428132051.png",
     "Pasted image 20230428132021.png",
-    "Sidewalk 23 Review Questions.md",
     "Pasted image 20230428132008.png",
-    "28APR23.md",
-    "Home.md",
-    "1MAY23.md",
-    "Sidewalk 23 Program.md",
-    "27APR23.md",
-    "homer.md",
-    "NW54 SESC Plan.md",
-    "25APR23.md",
-    "10MAR23.md",
-    "17APR23.md",
-    "20APR23.md",
-    "Journal Entries/17MAY22.md",
-    "Journal Entries/18MAY22.md",
-    "Journal Entries/19MAY22.md",
-    "Journal Entries/20JULY22.md",
-    "Journal Entries/20MAY22.md",
-    "Journal Entries/6JUNE22.md",
-    "SESC Plan.md",
-    "AECtion Notes.md",
-    "6APR23.md",
-    "17.md",
-    "Journal Entries/26JULY22.md",
-    "13APR23.md",
-    "7APR23.md",
     "Files/University of Michigan Mail - P17748 Bidpack 2 Budget.pdf",
-    "Files/Pasted image 20230202163517.png",
-    "Files/Pasted image 20230109144421.png",
-    "Files/Pasted image 20220630131601.png",
-    "Files/Pasted image 20220621153014.png",
-    "Files/Pasted image 20220621150809.png",
-    "Files/Fire Apparatus Access Roads.pdf",
-    "Untitled.canvas"
+    "Files/Fire Apparatus Access Roads.pdf"
   ]
 }

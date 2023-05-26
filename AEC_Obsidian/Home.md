@@ -23,6 +23,13 @@ This is the home page for my AEC work this summer, I'm mostly doing this to keep
 | W/Th |         |         | x           | [[6APR23]] | [[13APR23]] | [[20APR23]] | [[27APR23]] |
 | F    |         |         | [[31MAR23]] | [[7APR23]] | [[14ARP23]] |             | [[28APR23]] | 
 [[W23 - Hatcher Egress]]
-
 [[AECtion Notes]]
 
+# Summer 23 Work
+| Days | Week 1      | Week 2      | Week 3      | Week 4      |
+| ---- | ----------- | ----------- | ----------- | ----------- |
+| M    | [[01MAY23]] | [[07MAY23]] | [[15MAY23]] | [[22MAY23]] |
+| T    | [[02May23]] | [[08MAY23]] | [[16MAY23]] | [[23MAY23]] |
+| W    | [[03May23]] | [[09MAY23]] | [[17MAY23]] | [[24MAY23]] |
+| Th   | [[04MAY23]] | [[10MAY23]] | [[18MAY23]] | [[25MAY23]] |
+| F    | [[05May23]] |             | [[19MAY23]] | [[26MAY23]] | 
