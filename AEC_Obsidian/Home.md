@@ -32,4 +32,7 @@ This is the home page for my AEC work this summer, I'm mostly doing this to keep
 | T    | [[02May23]] | [[08MAY23]] | [[16MAY23]] | [[23MAY23]] |
 | W    | [[03May23]] | [[09MAY23]] | [[17MAY23]] | [[24MAY23]] |
 | Th   | [[04MAY23]] | [[10MAY23]] | [[18MAY23]] | [[25MAY23]] |
-| F    | [[05May23]] |             | [[19MAY23]] | [[26MAY23]] | 
+| F    | [[05May23]] |             | [[19MAY23]] | [[26MAY23]] |
+
+# Winter 24 Work
+[[30JAN24]]

@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbbd2b0503f2d72f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26MAY23.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "69ca8833765d315a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25MAY23.md",
+                "file": "30JAN24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59ce512baa4d883b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal Entries/29JUNE22.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26MAY23.md",
+                "file": "30JAN24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +136,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cbbd2b0503f2d72f",
+  "active": "69ca8833765d315a",
   "lastOpenFiles": [
+    "Journal Entries/29JUNE22.md",
+    "30JAN24.md",
+    "Home.md",
+    "Journal Entries/7JULY22.md",
+    "Journal Entries/28JUNE22.md",
+    "Journal Entries/21JUNE22.md",
+    "Journal Entries/16JUNE22.md",
+    "Journal Entries/11MAY22.md",
+    "Journal Entries/12MAY22.md",
+    "Journal Entries/7JUNE22.md",
+    "Journal Entries/9FEB23.md",
     "25MAY23.md",
     "26MAY23.md",
-    "Home.md",
     "19MAY23.md",
     "23MAY23.md",
     "24MAY23.md",
@@ -155,16 +165,6 @@
     "09MAY23.md",
     "15MAY23.md",
     "Journal Entries/17MAY22.md",
-    "Journal Entries/17JUNE22.md",
-    "Journal Entries/29JUNE22.md",
-    "Journal Entries/15JUNE22.md",
-    "ADA Training 2.md",
-    "Journal Entries/09MAY22.md",
-    "ADA Training 1.md",
-    "10MAY23.md",
-    "Journal Entries/10MAY22.md",
-    "02May23.md",
-    "SESC Plan.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230501080658.png",
