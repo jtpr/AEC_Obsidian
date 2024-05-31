@@ -36,3 +36,14 @@ This is the home page for my AEC work this summer, I'm mostly doing this to keep
 
 # Winter 24 Work
 [[30JAN24]]
+- Lost all of the rest of my files when ITS replaced my desktop
+
+# Summer 24 Work
+
+| Days | Week 1      | Week 2      | **Week 3**  | Week 4      |
+| ---- | ----------- | ----------- | ----------- | ----------- |
+| M    | [[6MAY24]]  | [[13MAY24]] | [[20MAY24]] |             |
+| T    | [[7MAY24]]  | [[14MAY24]] |             |             |
+| W    | [[8MAY24]]  | [[15MAY24]] |             | [[30MAY24]] |
+| Th   | [[9MAY24]]  | [[16MAY24]] | [[23MAY24]] |             |
+| F    | [[10MAY24]] |             |             |             |
