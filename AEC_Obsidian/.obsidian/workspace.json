@@ -4,28 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d7fff8b388487215",
+        "id": "4ae313841d87a43b",
         "type": "tabs",
         "children": [
           {
-            "id": "2fad713462497e9a",
+            "id": "4eb1038966090a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13MAY24.md",
+                "file": "23JULY24.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "eeae36ed3e65302d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c873448b65b8b99a",
+            "id": "3e9fea3fa7a6ee03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30MAY24.md",
+                "file": "22JULY24.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maryam",
+                "query": "rename",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +83,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
+    "width": 542.5,
     "collapsed": true
   },
   "right": {
@@ -99,14 +104,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13MAY24.md",
+                "file": "23JULY24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,13 +123,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,46 +139,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2fad713462497e9a",
+  "active": "ac53ecd1c5411802",
   "lastOpenFiles": [
-    "NC51 SESC.md",
-    "13MAY24.md",
-    "30MAY24.md",
     "Home.md",
-    "23MAY24.md",
-    "20MAY24.md",
-    "Journal Entries/20MAY22.md",
-    "NW54 SESC Plan.md",
-    "14MAY24.md",
+    "23JULY24.md",
+    "19JULY24.md",
+    "22JULY24.md",
+    "UHS Ramp Record Drawing.pdf",
+    "Journal Entries/22JULY22.md",
+    "Pasted image 20240719092411.png",
+    "18JULY24.md",
+    "Pasted image 20240719091916.png",
+    "Pasted image 20240719091159.png",
+    "Pasted image 20240719091000.png",
+    "Pasted image 20240719085718.png",
+    "Pasted image 20240719085335.png",
+    "Pasted image 20240719085246.png",
+    "Pasted image 20240719085046.png",
+    "Pasted image 20240719085011.png",
+    "Pasted image 20240719084553.png",
+    "17JULY24.md",
+    "19JUN24.md",
+    "Journal Entries/1AUG22.md",
+    "Journal Entries/18JULY22.md",
+    "9JUL24.md",
+    "8JUL24.md",
+    "26JUN24.md",
+    "25JUN24.md",
+    "24JUN24.md",
+    "21JUN24.md",
+    "20JUN24.md",
+    "18JUN24.md",
+    "17JUN24.md",
+    "10JUN24.md",
+    "30MAY24.md",
     "16MAY24.md",
-    "SESC Plan.md",
+    "20MAY24.md",
     "15MAY24.md",
-    "15MAY23.md",
-    "Sidewalk 23 Program.md",
-    "Maryam.md",
-    "17MAY23.md",
-    "Journal Entries/8JUNE22.md",
-    "Journal Entries/9JUNE22.md",
-    "10MAY24.md",
-    "Journal Entries/17JUNE22.md",
-    "Journal Entries/16JUNE22.md",
-    "Journal Entries/15JUNE22.md",
-    "Journal Entries/7JUNE22.md",
-    "Journal Entries/6JUNE22.md",
-    "Journal Entries/13MAY22.md",
-    "Journal Entries/11MAY22.md",
-    "Pasted image 20230519094241.png",
+    "14MAY24.md",
+    "13MAY24.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Pasted image 20230501080658.png",
-    "Pasted image 20230501080634.png",
-    "Pasted image 20230501080609.png",
-    "Pasted image 20230428132419.png",
-    "Pasted image 20230428132149.png",
-    "Pasted image 20230428132128.png",
-    "Pasted image 20230428132051.png",
-    "Pasted image 20230428132021.png",
-    "Pasted image 20230428132008.png",
     "Files/University of Michigan Mail - P17748 Bidpack 2 Budget.pdf",
     "Files/Fire Apparatus Access Roads.pdf"
   ]
